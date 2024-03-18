@@ -481,7 +481,7 @@ msgid "Delete a user"
 msgstr ""
 
 msgctxt "delete_confirmation"
-msgid "This will delete your user details and anonymise all of your contributions. Please re-enter your user name to confirm."
+msgid "This will delete your user details and anonymise all of your contributions. Please re-enter your user id to confirm."
 msgstr ""
 
 msgctxt "danger_zone"
@@ -630,7 +630,7 @@ msgid "Error"
 msgstr ""
 
 msgctxt "error_bad_login_password"
-msgid "Incorrect user name or password. <a href=\"/cgi/reset_password.pl\">Forgotten password?</a>"
+msgid "Incorrect user id or password. <a href=\"/cgi/reset_password.pl\">Forgotten password?</a>"
 msgstr ""
 
 msgctxt "error_database"
@@ -662,11 +662,11 @@ msgid "Invalid user."
 msgstr ""
 
 msgctxt "error_invalid_username"
-msgid "The user name must contain only unaccented letters, digits and dashes."
+msgid "The user id must contain only unaccented letters, digits and dashes."
 msgstr ""
 
 msgctxt "error_username_too_long"
-msgid "The user name is too long (maximum 40 characters)."
+msgid "The user id is too long (maximum 40 characters)."
 msgstr ""
 
 msgctxt "error_name_too_long"
@@ -686,7 +686,7 @@ msgid "Permission denied."
 msgstr ""
 
 msgctxt "error_no_username"
-msgid "You need to enter a user name"
+msgid "You need to enter a user id"
 msgstr ""
 
 msgctxt "error_reset_already_connected"
@@ -702,11 +702,11 @@ msgid "There is no account with this email"
 msgstr ""
 
 msgctxt "error_reset_unknown_id"
-msgid "This username does not exist."
+msgid "This user id does not exist."
 msgstr ""
 
-msgctxt "error_username_not_available"
-msgid "This username already exists, please choose another."
+msgctxt "error_user_id_not_available"
+msgid "This user id already exists, please choose another."
 msgstr ""
 
 msgctxt "example"
@@ -1249,7 +1249,7 @@ msgid "<p>Please sign-in to add or edit a product.</p>\n\n"
 msgstr ""
 
 msgctxt "login_username_email"
-msgid "Username or e-mail address:"
+msgid "User id or e-mail address:"
 msgstr ""
 
 msgctxt "low"
@@ -1988,7 +1988,7 @@ msgstr ""
 msgctxt "reset_password_email_body"
 msgid "Hello <NAME>,\n\n"
 "You asked for your password to be reset on https://openfoodfacts.org\n\n"
-"for the username: <USERID>\n\n"
+"for the user id: <USERID>\n\n"
 "To continue the password reset, click on the link below.\n"
 "If you did not ask for the password reset, you can ignore this message.\n\n"
 "<RESET_URL>\n\n"
@@ -2014,7 +2014,7 @@ msgid "An email with a link to reset your password has been sent to the e-mail a
 msgstr ""
 
 msgctxt "reset_password_send_email_msg"
-msgid "If you have forgotten your password, fill-in your username or e-mail address to receive instructions for resetting your password."
+msgid "If you have forgotten your password, fill-in your user id or e-mail address to receive instructions for resetting your password."
 msgstr ""
 
 msgctxt "risk_level"
@@ -2516,11 +2516,11 @@ msgid "You can unsubscribe from the lists at any time."
 msgstr ""
 
 msgctxt "userid_or_email"
-msgid "Username or e-mail address: "
+msgid "User Id or e-mail address: "
 msgstr ""
 
 msgctxt "username"
-msgid "User name"
+msgid "User Id"
 msgstr ""
 
 msgctxt "username_info"
@@ -2528,7 +2528,7 @@ msgid "(non-accented letters, digits and/or dashes)"
 msgstr ""
 
 msgctxt "username_or_email"
-msgid "Username or email address"
+msgid "User Id or email address"
 msgstr ""
 
 msgctxt "users_add_products"
